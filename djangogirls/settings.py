@@ -25,7 +25,7 @@ SECRET_KEY = 'hbuxucw0zno%g4%hk_w!8kwqwxezbx-=@d7$xitfk2^)&p4ug&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-shyvag.c9users.io']
 
 
 # Application definition
